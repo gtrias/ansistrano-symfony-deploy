@@ -1,4 +1,5 @@
 ---
+symfony_deploy_playbook_dir: /etc/ansible/roles/gtrias.ansistrano-symfony-deploy
 symfony_env: prod
 symfony_php_path: php # The PHP executable to use for all command line tasks
 
